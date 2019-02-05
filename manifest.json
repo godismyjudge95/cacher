@@ -6,7 +6,7 @@
   "developer_name": "Dmitry Antonenko",
   "icon": "images/cacher.png",
   "options": {
-    "query_debounce": 0.1
+    "query_debounce": 0.25
   },
   "preferences": [
     {
